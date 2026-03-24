@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Sales Hierarchy Map</h3>
-  <img src="images/sales_hierarchy.png" alt="Sales Hierarchy Visualization" width="700">
+  <img src="sales_hierarchy.png" alt="Sales Hierarchy Visualization" width="700">
   <p><em>Visualization of the hierarchical distribution of sales performance across key product segments.</em></p>
 </div>
 
@@ -51,4 +51,6 @@ To provide more granular insights, a custom `Sales_Hierarchy` feature was engine
 
 ---
 
-**Author:** [Your Name]
+### Let's Connect!
+[Nosheen Khan on LinkedIn](https://www.linkedin.com/in/khannosheen) | [Nosheen Khan on Kaggle](https://www.kaggle.com/nosheenkhan)
+
