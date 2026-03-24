@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>Sales Hierarchy Map</h3>
-  <img src="sales_hierarchy.png" alt="Sales Hierarchy Visualization" width="600", height="400">
+  <img src="images/fig_sun.png" alt="Sales Hierarchy Visualization" width="600", height="400">
   <p><em>Visualization of the hierarchical distribution of sales performance across key product segments.</em></p>
 </div>
 
